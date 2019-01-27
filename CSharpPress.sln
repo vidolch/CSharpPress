@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPress", "CSharpPress\CSharpPress.csproj", "{9854A1E9-B9C6-45AB-A67D-199DADC09E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPress.Models", "CSharpPress.Models\CSharpPress.Models.csproj", "{0D857A60-4E36-4059-9FBD-8B8D7D5D368A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9854A1E9-B9C6-45AB-A67D-199DADC09E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9854A1E9-B9C6-45AB-A67D-199DADC09E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9854A1E9-B9C6-45AB-A67D-199DADC09E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9854A1E9-B9C6-45AB-A67D-199DADC09E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D857A60-4E36-4059-9FBD-8B8D7D5D368A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D857A60-4E36-4059-9FBD-8B8D7D5D368A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D857A60-4E36-4059-9FBD-8B8D7D5D368A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D857A60-4E36-4059-9FBD-8B8D7D5D368A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36E644F-4A68-49B5-8A5E-8053C82323D2}
+	EndGlobalSection
+EndGlobal
